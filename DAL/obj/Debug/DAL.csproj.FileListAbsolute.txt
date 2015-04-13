@@ -1,0 +1,29 @@
+C:\Users\Sadique\Documents\Visual Studio 2013\Projects\Home Work4 v2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\2nd year, 1st term\C# Program\Home Work4 v2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\2nd year, 1st term\C# Program\Home Work4 v2\DAL\bin\Debug\DAL.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v2\DAL\bin\Debug\DAL.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v2\DAL\bin\Debug\Entity.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v2\DAL\bin\Debug\Entity.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v2\DAL\obj\Debug\DAL.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v2\DAL\obj\Debug\DAL.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v3\DAL\bin\Debug\DAL.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v3\DAL\bin\Debug\DAL.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v3\DAL\bin\Debug\Entity.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v3\DAL\bin\Debug\Entity.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\2nd year, 1st term\C# Program\Home Work4 v3\DAL\obj\Debug\DAL.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v3\DAL\obj\Debug\DAL.pdb
+C:\Users\zakaria\Desktop\Home Work4 v3\DAL\bin\Debug\DAL.dll
+C:\Users\zakaria\Desktop\Home Work4 v3\DAL\bin\Debug\DAL.pdb
+C:\Users\zakaria\Desktop\Home Work4 v3\DAL\bin\Debug\Entity.dll
+C:\Users\zakaria\Desktop\Home Work4 v3\DAL\bin\Debug\Entity.pdb
+C:\Users\zakaria\Desktop\Home Work4 v3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Home Work4 v3\DAL\obj\Debug\DAL.dll
+C:\Users\zakaria\Desktop\Home Work4 v3\DAL\obj\Debug\DAL.pdb
+I:\Home Work4 v3\DAL\bin\Debug\DAL.dll
+I:\Home Work4 v3\DAL\bin\Debug\DAL.pdb
+I:\Home Work4 v3\DAL\bin\Debug\Entity.dll
+I:\Home Work4 v3\DAL\bin\Debug\Entity.pdb
+I:\Home Work4 v3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\Home Work4 v3\DAL\obj\Debug\DAL.dll
+I:\Home Work4 v3\DAL\obj\Debug\DAL.pdb
