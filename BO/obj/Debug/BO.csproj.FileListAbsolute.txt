@@ -34,3 +34,12 @@ I:\Home Work4 v3\BO\bin\Debug\Entity.pdb
 I:\Home Work4 v3\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
 I:\Home Work4 v3\BO\obj\Debug\BO.dll
 I:\Home Work4 v3\BO\obj\Debug\BO.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\bin\Debug\BO.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\bin\Debug\BO.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\bin\Debug\DAL.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\bin\Debug\Entity.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\bin\Debug\DAL.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\bin\Debug\Entity.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\obj\Debug\BO.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\BO\obj\Debug\BO.pdb

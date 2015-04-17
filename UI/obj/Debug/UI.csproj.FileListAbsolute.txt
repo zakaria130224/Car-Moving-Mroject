@@ -67,3 +67,18 @@ I:\Home Work4 v3\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
 I:\Home Work4 v3\UI\obj\Debug\UI.Form1.resources
 I:\Home Work4 v3\UI\obj\Debug\UI.csproj.GenerateResource.Cache
 I:\Home Work4 v3\UI\obj\Debug\Entity.Properties.Resources.resources
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\UI.exe.config
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\obj\Debug\UI.exe
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\obj\Debug\UI.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\UI.exe
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\UI.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\BO.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\Entity.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\DAL.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\BO.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\Entity.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\bin\Debug\DAL.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\obj\Debug\UI.Form1.resources
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\obj\Debug\Entity.Properties.Resources.resources
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\UI\obj\Debug\UI.csproj.GenerateResource.Cache

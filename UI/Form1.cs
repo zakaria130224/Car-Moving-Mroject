@@ -41,16 +41,16 @@ namespace UI
             switch (keyPress)
             {
                 case 'u':
-                    c.carUp(g);
+                    bl.getUp(g);
                     break;
                 case 'd':
-                    c.carDown(g);
+                     bl.getDown(g);
                     break;
                 case 'r':
-                    c.carRight(g);
+                    bl.getRight(g);
                     break;
                 case 'l':
-                    c.carLeft(g);
+                    bl.getLeft(g);
                     break;
             }
             if (bl.speedCalculation() != 0 && !String.IsNullOrEmpty(currentInfoLabel.Text))
@@ -72,17 +72,11 @@ namespace UI
                 Car c = new Car();
                 c.speed = Convert.ToInt32(trackBar1.Value)*10;
         
-                if (bl.saveSpeed(c))
-                {
+               
                     info.Text = "Now, Press 'Start'";
-                    currentInfoLabel.Text = Convert.ToString(bl.getData());
-                }
-                else
-                {
-                    MessageBox.Show("error");
-                    info.Text = null;
-                }
-
+                    currentInfoLabel.Text = (c.speed).ToString();
+                    trackBar1.Visible = false;
+               
             }
         }
         private void timer1_Tick(object sender, EventArgs e)
@@ -125,12 +119,7 @@ namespace UI
 
         }
        
-        //ValueChanged event handler for your trackBar1
-        private void trackBar1_ValueChanged(object sender, EventArgs e)
-        {
-            if (trackBar1.Value != c.speed) trackBar1.Value = c.speed;
-            c.speed = trackBar1.Value;
-        }
+        
 
     }
 }

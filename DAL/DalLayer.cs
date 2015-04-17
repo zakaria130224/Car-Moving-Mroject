@@ -5,11 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using Entity;
+using System.Drawing;
 
 namespace DAL
 {
     public class DalLayer
     {
+        Graphics g;
+        Car c = new Car();
         public bool save(String speed)
         {
             try
@@ -40,5 +43,6 @@ namespace DAL
                 return null;
             }
         }
+      
     }
 }

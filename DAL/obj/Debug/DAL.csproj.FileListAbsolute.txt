@@ -27,3 +27,10 @@ I:\Home Work4 v3\DAL\bin\Debug\Entity.pdb
 I:\Home Work4 v3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 I:\Home Work4 v3\DAL\obj\Debug\DAL.dll
 I:\Home Work4 v3\DAL\obj\Debug\DAL.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\DAL\bin\Debug\DAL.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\DAL\bin\Debug\DAL.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\DAL\bin\Debug\Entity.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\DAL\bin\Debug\Entity.pdb
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\DAL\obj\Debug\DAL.dll
+I:\Gits\Car-Moving-Project\Car-Moving-Mroject\DAL\obj\Debug\DAL.pdb

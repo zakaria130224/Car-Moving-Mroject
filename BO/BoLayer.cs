@@ -5,11 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using DAL;
 using Entity;
+using System.Drawing;
 
 namespace BO
 {
     public class BoLayer
     {
+        Graphics g;
+        Car c = new Car();
         DalLayer d = new DalLayer();
         public int x = 12;
         public int y = 126;
@@ -21,28 +24,7 @@ namespace BO
         public int speedCalculation()
         {
             Car c = d.getData();
-            if (c.speed == 10)
-                return 1000;
-            else if (c.speed == 20)
-                return 650;
-            else if (c.speed == 30)
-                return 350;
-            else if (c.speed == 40)
-                return 250;
-            else if (c.speed == 50)
-                return 180;
-            else if (c.speed == 60)
-                return 100;
-            else if (c.speed == 70)
-                return 65;
-            else if (c.speed == 80)
-                return 40;
-            else if (c.speed == 90)
-                return 20;
-            else if (c.speed == 100)
-                return 1;
-            else
-                return 0;
+            return c.speed;
         }
 
         public int getData()
@@ -91,6 +73,22 @@ namespace BO
         public char getKey()
         {
             return key;
+        }
+        public void getRight(Graphics g)
+        {
+            c.carRight(g);
+        }
+        public void getLeft(Graphics g)
+        {
+            c.carLeft(g);
+        }
+        public void getUp(Graphics g)
+        {
+            c.carUp(g);
+        }
+        public void getDown(Graphics g)
+        {
+            c.carDown(g);
         }
     }
 }
